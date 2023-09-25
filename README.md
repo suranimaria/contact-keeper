@@ -1,13 +1,16 @@
 # ContactKeeper
 
-ContactKeeper is a comprehensive contact management application that allows users to manage their contacts seamlessly. The app is live and can be accessed at [ContactKeeper](https://contact-keeper-8e8t.onrender.com/).
+ContactKeeper is a contact management application that allows users to manage their contacts seamlessly. 
+
+The app is live and can be accessed at [ContactKeeper](https://contact-keeper-8e8t.onrender.com/) - redeployed on Render after Heroku closed their free tier in November 2022.
+
+Developed part of Brad Traversy's course - [React Front to Back](https://www.udemy.com/course/react-front-to-back-2022/)
 
 ## Tech Stack
 
 - **Backend**: Node.js, Express, JWT for authentication
 - **Frontend**: React (using Context API, Hooks, and Redux), Javascript, HTML, CSS
 - **Database**: MongoDB
-- **Deployment**: Render platform
 
 ## API Endpoints
 
@@ -58,7 +61,7 @@ npm run server
 
 ```
 
-* In separate terminal, tart the frontend server:
+* In separate terminal, start the frontend server:
 ```
 npm run client
 
